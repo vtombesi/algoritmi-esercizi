@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F38773BE-DEF5-4731-A2F0-CF4A855636AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ex08_Heap_Vettore</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>74B2FC8864774AC37DE7695EE453C340E7346E97</key>
+		<string>github.com:vtombesi/algoritmi-esercizi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Chapter08/Ex08_Heap_Vettore/Ex08_Heap_Vettore.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>74B2FC8864774AC37DE7695EE453C340E7346E97</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:vtombesi/algoritmi-esercizi.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>74B2FC8864774AC37DE7695EE453C340E7346E97</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>74B2FC8864774AC37DE7695EE453C340E7346E97</string>
+			<key>IDESourceControlWCCName</key>
+			<string>algoritmi-esercizi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
